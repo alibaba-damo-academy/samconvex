@@ -9,6 +9,6 @@ SAMConvex: Fast Discrete Optimization for CT Registration using Self-supervised 
 
 ## Installation
 ```
-cd SAMReg
+cd samconvex
 pip install -e .
 ```
