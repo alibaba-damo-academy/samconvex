@@ -1,0 +1,7 @@
+*.pyc
+.vscode
+*.code-workspace
+notebooks/.ipynb_checkpoints
+*.egg-info
+*.ipynb_checkpoints
+
