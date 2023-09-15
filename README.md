@@ -5,7 +5,8 @@ SAMConvex: Fast Discrete Optimization for CT Registration using Self-supervised 
 ## Requirements
 - Anaconda3 with python=3.7
 - Pytorch=1.9.0
-- [SAM: Self-supervised Learning of Pixel-wise Anatomical Embeddings in Radiological Images](https://ieeexplore.ieee.org/document/9760421/)
+- [SAM: Self-supervised Learning of Pixel-wise Anatomical Embeddings in Radiological Images](https://ieeexplore.ieee.org/document/9760421/) [[repo]](https://github.com/alibaba-damo-academy/self-supervised-anatomical-embedding-v2)
+
 
 ## Installation
 ```
