@@ -10,8 +10,18 @@ This is the official Pytorch implementation of "SAMConvex: Fast Discrete Optimiz
 
 
 ## Installation
+First install SAM repo
 ```
-cd samconvex
+pip install -U openmim
+mim install mmcv-full==1.4.7
+cd SAM
+python -m pip install -e .
+```
+Then install the repo SAMReg
+```
+pip install torch==1.13.1
+git clone https://github.com/alibaba-damo-academy/same.git
+cd same
 pip install -e .
 ```
 
