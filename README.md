@@ -17,11 +17,9 @@ mim install mmcv-full==1.4.7
 cd SAM
 python -m pip install -e .
 ```
-Then install the repo SAMReg
+Then install this repo 
 ```
-pip install torch==1.13.1
-git clone https://github.com/alibaba-damo-academy/same.git
-cd same
+cd samconvex
 pip install -e .
 ```
 
