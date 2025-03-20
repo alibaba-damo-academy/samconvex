@@ -1,6 +1,6 @@
 #  Non-learning SAMConvex registration method
 
-This is the official Pytorch implementation of "SAMConvex: Fast Discrete Optimization for CT Registration using Self-supervised Anatomical Embedding and Correlation Pyramid" (MICCAI 2023).
+This is the official Pytorch implementation of "SAMConvex: Fast Discrete Optimization for CT Registration using Self-supervised Anatomical Embedding and Correlation Pyramid" (MICCAI 2023). If you have any questions, please contact us at alisonbrielee@gmail.com.
 
 
 ## Requirements
